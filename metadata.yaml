@@ -1,0 +1,26 @@
+_repo: Early-Theories-of-Translation_22353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Amos, Flora Ross
+    birthdate: 1881
+    gutenberg_agent_id: '25282'
+    url: http://www.gutenberg.org/2009/agents/25282
+description: ''
+gutenberg_issued: '2007-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22353'
+  lccn: '73000397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Translating and interpreting'
+title: Early Theories of Translation
+url: http://www.gutenberg.org/ebooks/22353
